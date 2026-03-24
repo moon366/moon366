@@ -1,10 +1,10 @@
 <!-- Visitor Counter -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=moon366&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Aayusa Neupane</h1>
 <p align="center">
   <i>Developer • Cybersecurity Enthusiast • Problem Solver</i>
 </p>
