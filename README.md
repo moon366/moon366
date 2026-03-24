@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Visitor Counter -->
 
-<!--
-**moon366/moon366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<p align="center">
+  <i>Developer • Cybersecurity Enthusiast • Problem Solver</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,mysql,git,github,linux&perline=10" />
+</p>
+
+---
+
+### 🚀 About Me
+
+* 🎓 Student passionate about **Software Development & Cybersecurity**
+* 💻 Skilled in building **full-stack web applications**
+* 🔐 Currently exploring **Ethical Hacking & Security Concepts**
+* 🌱 Learning advanced **React & Backend Systems**
+
+---
+
+### 🔭 Currently Working On
+
+* 🔐 **Cybersecurity** – Learning penetration testing & security fundamentals
+* ⚛️ **React Projects** – Building interactive UI systems
+* 🌐 **Full Stack Development** – Connecting frontend with backend
+
+---
+
+### 🛠️ Tech Stack
+
+* 💻 Languages: **C, Java, JavaScript**
+* 🌐 Frontend: **HTML, CSS, React.js**
+* 🗄️ Database: **MySQL**
+* ⚙️ Tools: **Git, GitHub, Linux**
+
+---
+
+### 📌 Featured Projects
+
+* 🔹 **Project 1** – Short description (Add your GitHub link)
+* 🔹 **Project 2** – Short description
+* 🔹 **Project 3** – Short description
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">LinkedIn</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
+
+<p align="center">
+  <sub>building skills • securing systems • growing daily 🚀</sub>
+</p>
