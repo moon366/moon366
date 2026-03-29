@@ -49,12 +49,17 @@
 
 ---
 
-### 📊 GitHub Stats
 
+
+### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
+### 📊 GitHub Stats
+
+
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
